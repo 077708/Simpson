@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XWbQRx040KnSWxmyVrvDQQy64qlyT7+NU7S1IJMcCalpnf8IpFJEkSrhxbXz4uL/imeHlCDGqKhyQDLI3J2hgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo Mayorga\\source\\repos\\MetodoDeSimpson\\MetodoDeSimpson\\MetodoDeSimpson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo Mayorga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Paulo Mayorga\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.exe
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.deps.json
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.runtimeconfig.json
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.runtimeconfig.dev.json
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.dll
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\ref\MetodoDeSimpson.dll
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\bin\Debug\net5.0\MetodoDeSimpson.pdb
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.csproj.AssemblyReference.cache
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.AssemblyInfoInputs.cache
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.AssemblyInfo.cs
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.dll
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\ref\MetodoDeSimpson.dll
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.pdb
+C:\Users\Paulo Mayorga\source\repos\MetodoDeSimpson\MetodoDeSimpson\obj\Debug\net5.0\MetodoDeSimpson.genruntimeconfig.cache
